@@ -1,0 +1,11 @@
+[package]
+name = "ClI"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] } # ตัวจัดการโครงสร้างข้อมูล
+serde_json = "1.0" 
+# ตัวแปลงข้อมูลเป็น JSON
+anyhow = "1"
