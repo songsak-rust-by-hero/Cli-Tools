@@ -1,5 +1,12 @@
-{
-  "name": "pert",
-  "age": 28,
-  "email": "paet@gmail.com"
-}
+[
+  {
+    "name": "golk",
+    "age": 25,
+    "email": "golk@gmail.com"
+  },
+  {
+    "name": "pad",
+    "age": 28,
+    "email": "pad@gamil.com"
+  }
+]
